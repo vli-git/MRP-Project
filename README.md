@@ -6,3 +6,6 @@ The purpose of this project is to use an LDA topic model with LASSO regression t
 #### Datasets
 The datasets for cross-validation and testing are contained in the "Datasets" folder in compressed zip files.
 To run the code, extract the folder within the zip file and change the filepath in the code accordingly
+
+### Code
+ARMA-GARCH forecast.R was used to create the ARMA-GARCH model and generate the time series predictions. This code was also used to identify the peak days.
